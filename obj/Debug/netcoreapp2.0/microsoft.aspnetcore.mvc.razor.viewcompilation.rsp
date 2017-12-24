@@ -1,0 +1,12 @@
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=concepts_of_containers_demo
+--content-root=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/Home/About.cshtml
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/Home/Contact.cshtml
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/Home/Index.cshtml
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/Shared/Error.cshtml
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/Shared/_Layout.cshtml
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/_ViewImports.cshtml
+--file=/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/Views/_ViewStart.cshtml

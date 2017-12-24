@@ -1,0 +1,10 @@
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/bin/Debug/netcoreapp2.0/concepts_of_containers_demo.deps.json
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/bin/Debug/netcoreapp2.0/concepts_of_containers_demo.runtimeconfig.json
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/bin/Debug/netcoreapp2.0/concepts_of_containers_demo.runtimeconfig.dev.json
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/bin/Debug/netcoreapp2.0/concepts_of_containers_demo.dll
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/bin/Debug/netcoreapp2.0/concepts_of_containers_demo.pdb
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/obj/Debug/netcoreapp2.0/concepts_of_containers_demo.csproj.CoreCompileInputs.cache
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/obj/Debug/netcoreapp2.0/concepts_of_containers_demo.AssemblyInfoInputs.cache
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/obj/Debug/netcoreapp2.0/concepts_of_containers_demo.AssemblyInfo.cs
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/obj/Debug/netcoreapp2.0/concepts_of_containers_demo.dll
+/Users/giorgitediashvili/Desktop/concepts_of_containers_demo/obj/Debug/netcoreapp2.0/concepts_of_containers_demo.pdb
